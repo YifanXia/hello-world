@@ -1,2 +1,3 @@
 # hello-world
-first git rep
+
+something about myself
